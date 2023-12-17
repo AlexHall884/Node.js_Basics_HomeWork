@@ -1,0 +1,11 @@
+{
+  "name": "alex_gen-pass",
+  "version": "1.0.0",
+  "description": "a simple password generator that will help you easily generate any password",
+  "main": "generatorPasswords.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Kleshin",
+  "license": "ISC"
+}
